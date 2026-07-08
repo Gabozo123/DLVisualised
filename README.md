@@ -13,4 +13,5 @@ Current Known Issues:
 - Value for 'Date' axis format is unreadable
 - Axis values and headers clip/cut off under certain combinations
 - Database is static and not automatically updated
+- Display on mobile is bad (mainly the graph itself)
 - Code is probably horrendously bad
