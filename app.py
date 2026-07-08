@@ -43,4 +43,6 @@ def creategraph():
         return 'INVALID INPUT'
     
 
-#python -m flask --debug run
+if __name__ == '__main__':
+    app.run()
+    
