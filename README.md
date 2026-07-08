@@ -13,3 +13,4 @@ Current Known Issues:
 - Value for 'Date' axis format is unreadable
 - Axis values and headers clip/cut off under certain combinations
 - Database is static and not automatically updated
+- Code is probably horrendously bad
